@@ -1,0 +1,30 @@
+<Create React App>
+https://ja.reactjs.org/docs/create-a-new-react-app.html#create-react-app
+
+https://ja.reactjs.org/docs/accessibility.html
+
+https://ja.reactjs.org/docs/optimizing-performance.html#create-react-app
+
+
+・create react app
+
+ターミナルにて
+npx create-react-app my-app
+cd my-app
+npm start
+
+(npm ではなくnpx)
+https://medium.com/@maybekatz/introducing-npx-an-npm-package-runner-55f7d4bd282b
+
+
+
+プロジェクトが Create React App で構築されているなら、以下のコードを実行してください。
+
+- npm run build
+
+これでアプリケーションの本番用ビルドがプロジェクト内の build/ フォルダに作成されます。
+
+これが必要なのは本番用ビルドだけであることに留意してください。通常の開発作業では、npm start を使用してください。
+
+
+
